@@ -1,0 +1,7 @@
+UAT
+string fullURL = "https://api-uat204.itquoter.com/v1/auth/?accessKey=6PZctDuWd9dSCol6";
+private string BaseUrl = "https://api-uat204.itquoter.com/";
+
+PRODUCTION
+string fullURL = "https://api-au204.itquoter.com/v1/auth/?accessKey=l35qyw1fejkty220fn8zagc6";
+private string BaseUrl = "https://api-au204.itquoter.com/";
